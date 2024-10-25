@@ -25,4 +25,8 @@ public class ClasseA {
     public void MA2(){
         System.out.println("Metodo MA2");
     }
+
+    public void MA3(){
+        System.out.println("Metodo MA3");
+    }
 }
