@@ -18,4 +18,7 @@ public class ClasseD {
         System.out.println("Metodo MD2");
     }
 
+    public void MD4(){
+        System.out.println("Metodo MD4");
+    }
 }
