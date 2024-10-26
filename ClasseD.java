@@ -21,4 +21,7 @@ public class ClasseD {
     public void MD3(){
         System.out.println("Metodo MD3");
     }
+    public void MD4(){
+        System.out.println("Metodo MD4");
+    }
 }
