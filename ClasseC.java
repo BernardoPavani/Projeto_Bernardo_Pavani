@@ -18,11 +18,15 @@ public class ClasseC {
         C2 = c2;
     }
 
-    public String MC1(){
-        return "MC1";
+    public void MC1(){
+        System.out.println("Metodo MC1");
     }
 
-    public String MC2(){
-        return "MC2";
+    public void MC2(){
+        System.out.println("Metodo MC2");
+    }
+
+    public void MC3(){
+        System.out.println("Metodo MC3");
     }
 }
