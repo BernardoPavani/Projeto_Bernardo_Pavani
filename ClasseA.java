@@ -29,4 +29,8 @@ public class ClasseA {
     public void MA3(){
         System.out.println("Metodo MA3");
     }
+
+    public float getSoma(){
+        return A1+A2;
+    }
 }
