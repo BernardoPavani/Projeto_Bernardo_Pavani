@@ -30,7 +30,7 @@ public class ClasseA {
         System.out.println("Metodo MA3");
     }
 
-    public float getSoma(){
-        return A1+A2;
+    public float getSoma(int a, int b){
+        return a+b;
     }
 }
